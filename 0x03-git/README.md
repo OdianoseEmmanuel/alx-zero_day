@@ -1,1 +1,1 @@
-Readme not empty
+Coding is actually fun
